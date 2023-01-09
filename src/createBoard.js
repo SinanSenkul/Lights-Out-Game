@@ -1,4 +1,4 @@
-function createBoard(nRows, nCols) {
+function createBoard() {
     let board = new Array(25);
     let index = 0;
     for (let i = 0; i < 5; i++) {
