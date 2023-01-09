@@ -12,7 +12,6 @@ class Board extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      hasWon: false,
       board: createBoard()
     };
     this.refinedFlipper = this.refinedFlipper.bind(this);
