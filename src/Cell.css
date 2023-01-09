@@ -1,0 +1,16 @@
+.dark-cell {
+  border: 0.25px solid black;
+  height: 100px;
+  width: 100px;
+  background-color: rgb(32, 32, 32);
+  transition: 0.5s;
+}
+
+.lit-cell {
+  border: 0.25px solid black;
+  height: 100px;
+  width: 100px;
+  background-color: rgb(252, 202, 5); /* for the 1px in the center */
+  box-shadow: 0px 0px 5px rgb(255, 255, 255);
+  transition: 0.75s;
+}
