@@ -1,1 +1,3 @@
-# Lights-Out-Game
+- An educational React app (one project from Colt Steele's React bootcamp), lights out game is one of the cult game of 80's.
+- There's a 5 x 5 table where each cell senses click events and toggles lights on/off.
+- I developed the code's 99% myself. Only App.css and index.css is from the Colt's starter package. Logic is completely developed from scratch.
